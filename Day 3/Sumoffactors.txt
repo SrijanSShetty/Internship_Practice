@@ -1,0 +1,10 @@
+To find sum of factors
+Step 1:start
+Step 2:declare i,n,sum
+Step 3:read n
+Step 4:initialize i=1 and factor=0
+Step 5:check i with n if (i<=n/2) then goto Step 6 else goto Step 7
+Step 6:if(n%i==0) if true sum=sum+i
+Step 7:increament i goto Step 5
+Step 8:display sum
+Step 9:stop

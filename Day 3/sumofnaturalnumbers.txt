@@ -1,0 +1,11 @@
+To print even numbers between 1 to n
+Step 1: Start
+Step 2: Declare n,i
+Step 3: Read n
+Step 4: Initialise i=1
+Step 5: check i value with n 
+        if(i<=n) if true go to 
+Step 6: if the condition false go to step 9
+Step 7: if i%2==0:
+Step 8: print i
+Step 9: Stop

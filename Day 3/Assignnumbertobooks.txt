@@ -1,0 +1,6 @@
+Assigning numbers to books
+Step1: Start
+Step 2: Consider the whole set of books
+Step 3: After classification for easy maintainance assign refence numbers for each set of books
+Step 4: Assign refence numbers for each set of books
+Step 5: Stop

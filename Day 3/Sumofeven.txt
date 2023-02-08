@@ -1,0 +1,4 @@
+To find sum of n even numbers
+Step 1: Start
+Step 2: 
+Step 3:

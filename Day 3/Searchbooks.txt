@@ -1,0 +1,7 @@
+To search for books
+Step 1: Start
+Step 2: declare sid,bid,lbid
+Step 3: read sid and bid
+Step 4: if bid=lbid
+Step 5: Display "Match found and check for your required material"
+Step 6: Stop
