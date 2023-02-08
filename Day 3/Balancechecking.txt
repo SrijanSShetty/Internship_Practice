@@ -1,0 +1,9 @@
+To check for balance using ATM
+Step 1: Start
+Step 2: Enter the ATM
+Step 3: Checkout your ATM card
+Step 4: enter ur pin
+Step 5: if entered pin is crct then the go to step6 else go to step4
+Step 6: click on check balance option
+Step 7: view your balance
+Step 8: stop

@@ -1,0 +1,15 @@
+To change pin of transactions at ATM
+Step 1: Start
+Step 2: Gear up to ATM
+Step 3: Handout your card to the ATM machine
+Step 4: Enter the pin
+Step 5: If entered pin is crct //Nowadays choose your transaction pin are user dependent for the first time 
+        goto step 6
+        else
+        Error got step 4
+Step 6: Click on change pin option
+Step 7: Enter your mobile number and confirm with One Time Password 
+Step 8: Once mobile verification is done Enter email id for verification and also confirm with One Time Password
+Step 9: Enter your new pin 
+Step 10: Confirm your new pin
+Step 11: Stop
