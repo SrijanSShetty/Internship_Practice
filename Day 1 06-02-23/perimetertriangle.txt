@@ -1,0 +1,7 @@
+perimeter of triangle
+s1: start
+s2: declare side1, side2, side3
+s3: read side
+s4: peri=side1+side2+side3
+s5:display peri
+s6:stop

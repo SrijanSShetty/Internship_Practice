@@ -1,0 +1,8 @@
+Swap two numbers without temp
+s1: start
+s2: declare num1, num2
+s3: num1=num1+num2
+s4: num2=num1-num2
+s5: num1=num1-num2
+s6: Display num1,num2
+s7: stop

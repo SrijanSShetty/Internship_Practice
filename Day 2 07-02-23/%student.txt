@@ -1,0 +1,20 @@
+To check classify student marks to his proficiency , Average & Percentage
+Step 1: start
+Step 2: declare sub1, sub2 , sub3, sub4 ,sub5, Avg, Percentage, Total
+Step 3: Read 5 subject marks
+Step 4: Total = sub1+sub2+sub3+sub4+sub5
+Step 5: Avg=(Total)/5
+Step 6: Percentage=((Total/500))*100)
+Step 7:if Percentage<=90 and Percentage>100
+Step 8:Display Grade is A
+Step 9:else if Percentage<=80 and Percentage>90
+Step 10:Display Grade is B
+Step 11:else if Percentage<=70 and Percentage>80
+Step 12:Display Grade is C
+Step 11:else if Percentage<=60 and Percentage>70
+Step 12:Display Grade is D
+Step 13:Else Display student has failed
+Step 14: Display Total
+Step 15: Display Average
+Step 16: Display Percentage
+Step 17: Stop

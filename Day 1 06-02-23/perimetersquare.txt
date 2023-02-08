@@ -1,0 +1,7 @@
+perimeter of square
+s1: start
+s2: declare side, peri
+s3: read side
+s4: peri=4*side
+s5:display peri
+s6:stop

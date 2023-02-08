@@ -1,0 +1,8 @@
+To check character is 't' or not
+Step 1: Start
+Step 2: Enter the character
+Step 3: if (character=='t')
+        Display character entered is 't'
+        else:
+        Display character entered is not 't'
+Step 4: Stop

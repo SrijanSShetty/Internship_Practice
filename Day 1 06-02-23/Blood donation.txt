@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Declare n1,n2,n3
+Step 3: Read n1, n2, n3
+Step 4: if(n1>n2) & (n1>n3)
+        display n1;
+        else if(n2>n1) & (n2>n3)
+        display n2;
+        else
+        display n3
+Step 5: else if()

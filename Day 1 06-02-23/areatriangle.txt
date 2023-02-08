@@ -1,0 +1,7 @@
+area of triangle
+s1: start
+s2: declare base, height
+s3: read inputs
+s4: area=(1/2)*base*height
+s5:display area
+s6:stop

@@ -1,0 +1,12 @@
+Check whether character is alphabet or digit
+Step 1:start
+Step 2:Declare ch;
+Step 4:Read ch;//y
+Step 5:perform operation if((ch >= 'a' && ch <= 'z')
+
+Step 4:        Display ch is alphabet
+Step 5:else if(ch >= '0' && ch <= '9')
+        Display ch is digit
+        else
+        Display ch is special character
+Step 6: Stop

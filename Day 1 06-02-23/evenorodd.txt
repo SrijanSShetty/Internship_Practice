@@ -1,0 +1,9 @@
+To find number is even or odd
+Step1: start
+Step2: declare num
+s3: read number
+s4: if(num%2==0)
+    display number is even
+    else
+    display number is odd
+s5:stop

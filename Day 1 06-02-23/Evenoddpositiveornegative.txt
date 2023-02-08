@@ -1,0 +1,15 @@
+Check if even,odd,negative,positve or zero
+Step 1: start
+Step 2: declare n;
+Step 3: read n;
+Step 4: if n%2==0 and n<0
+        display n is even and negative;
+Step 5: else if n%2==0 and n>0
+      display n is even and positive;
+      else if n%2!==0 and n>0
+      display n is odd and positive;
+      else if n%2!==0 and n<0
+      display n is odd and negative;
+      else if n==0
+      display n is equal to 0;
+Step 6: stop

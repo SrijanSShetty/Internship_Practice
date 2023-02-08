@@ -1,0 +1,8 @@
+Swap two numbers
+Step 1: start
+Step 2: declare num1, num2
+Step 3: temp=num1
+Step 4: num1=num2
+Step 5: num2=temp
+Step 6: Display num1,num2
+Step 7: stop

@@ -1,0 +1,8 @@
+To check whether character is consonent or vowel
+Step 1:Start
+Step 2:Input character
+Step 3:if character=='a' or 'e' or 'i' or 'o' or 'u';
+        Display character is vowel
+Step 4:else:
+        Display character is consonent
+Step 5: stop

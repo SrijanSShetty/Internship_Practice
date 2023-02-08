@@ -1,0 +1,9 @@
+To check the number is positive or negative
+Step 1: Start
+Step 2: declare num
+Step 3: read num
+Step 4: if(num>0)
+        display num is positive
+Step 5:if(num<0)
+        display num is negative
+Step 6:stop

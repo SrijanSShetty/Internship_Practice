@@ -1,0 +1,7 @@
+Sum of two numbers
+s1: start
+s2: declare num1, num2
+s3: read numbers
+s4: sum=num1+num2
+s5:display sum
+s6:stop
