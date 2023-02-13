@@ -1,6 +1,0 @@
-Arranging the books in library
-Step 1: Start
-Step 2: Consider the whole set of books
-Step 3: Segregate the books based on the domains of contents
-Step 4: Once classified just arrange the set of books in order for easy access ,done
-Step 5: Stop //more steps req

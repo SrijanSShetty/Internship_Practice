@@ -1,0 +1,7 @@
+Simple interest
+s1: start
+s2: declare principle, time , interest
+s3: read inputs
+s4: SI=(principle*time*interest)/100
+s5:display SI
+s6:stop

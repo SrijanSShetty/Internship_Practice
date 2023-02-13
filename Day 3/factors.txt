@@ -1,8 +1,0 @@
-To find factors of a given number
-Step 1: Start
-Step 2: declare i,num
-Step 3: Read input num
-Step 4: if(i=1;i<=num2,i++)
-Step 5: if(num%i==0)
-         print factors of a number
-Step 6: stop

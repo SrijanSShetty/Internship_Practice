@@ -1,9 +1,0 @@
-To read books in a library
-Step 1: Start
-Step 2: declare sid,validsids
-Step 3: read sid,validsids
-Step 4: Check sid is valid if sid=validsids
-Step 5: Display You may take or refer your material
-Step 6: else 
-Step 7: Display Sorry you're not supposed to use the library materials
-Step 8: Stop
