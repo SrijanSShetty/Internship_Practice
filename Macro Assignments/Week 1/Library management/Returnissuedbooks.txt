@@ -1,0 +1,8 @@
+To return the issued book or set of books
+Step 1: declare sid,bid
+Step 2: Read sid, bid
+Step 3: Check for damage if yes
+Step 4: Display "pay fine and return"
+Step 5: else material!=damage
+Step 6: Display "Good returned it great keep it up"
+Step 7: Stop

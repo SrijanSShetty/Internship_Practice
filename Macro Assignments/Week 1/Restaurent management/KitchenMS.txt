@@ -1,0 +1,12 @@
+To manage , displace and takecare of Kitchen
+Step 1: Start
+Step 2: Declare orders , fooditems , rawmaterials  , time
+Step 3: Read orders 
+Step 4: Check for orders with fooditems & rawmaterials
+Step 5: if match found 
+Step 6: Display "Your order will be delivered by "time
+Step 7: else if match with rawmaterials or fooditems 
+Step 8: Display "Your order will be placed in no time"
+Step 9: else 
+Step 10: Display "Your order is currently unavailable how can we help with these "fooditems 
+Step 11: Stop

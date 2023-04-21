@@ -1,0 +1,52 @@
+To withdraw money at ATM
+Step 1: Start
+Step 2: Reach out ATM
+Step 3: Cashout your ATM card
+Step 4: Choose your account and fill details
+Step 5: Select withdraw option
+Step 6: click next if the entered amount is true 
+Step 7: Enter your pin goto step 11
+Step 8: else
+        Display choose proper option
+Step 9: if amount entered is <= bank balance
+Step 10: Cash out the desired amount and receive confirmation receipt
+Step 11: Display "Please visit us again"  
+Step 12: stop
+
+Usecase2: Depositing the money
+Step 1: start
+Step 2: go to atm
+Step 3: insert ur atm card
+Step 4: enter ur pin
+Step 5: click on the deposit option from the given set of 
+    options
+Step 6: enter the amount to deposit
+Step 7: enter the number of notes with respect to 100,200,500,2000 in the given options
+Step 8: if the the details are crct then go to step9 else step6
+Step 9: keep the amount on the cash collecting area
+Step 10: get the recipet 
+Step 11: stop
+
+
+secase3: to check balance
+Step 1: start
+Step 2: go to atm
+Step 3: insert ur card
+Step 4: enter ur pin
+Step 5: if entered pin is crct then the go to step6 else go to step 4
+Step 6: click on check balance option
+Step 7: view your balance
+Step 8: stop
+
+Usecase4: change pin
+s1: start
+s2: go to atm
+s3: insert your card
+s4: enter the pin
+s5: if entered pin is crct then the go to step6 else go to step4
+s6: click on change pin option
+s7: enter ur mobile number  
+s8: If entered mobile number id crct go to step9 else go to step7
+s9: Enter your new pin
+s10: Confirm your new pin
+s11: Stop

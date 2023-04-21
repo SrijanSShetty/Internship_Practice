@@ -1,0 +1,10 @@
+To manage and look after employee like Employee management System 
+Step 1: Start 
+Step 2: Declare salary , bonus
+Step 3: If salary >= expected 
+Step 4: Display "Employee is satisfied "
+Step 5: else if salary+bonus >=expected
+Step 6: Display "Employee is satisfied "
+Step 7: else 
+Step 8: Display "Employee is not satified and recommend for increment with additional benefits"
+Step 9: Stop 
